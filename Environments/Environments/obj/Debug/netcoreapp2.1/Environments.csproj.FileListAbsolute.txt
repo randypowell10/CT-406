@@ -1,0 +1,14 @@
+C:\Users\randy\source\repos\Environments\Environments\bin\Debug\netcoreapp2.1\Environments.deps.json
+C:\Users\randy\source\repos\Environments\Environments\bin\Debug\netcoreapp2.1\Environments.runtimeconfig.json
+C:\Users\randy\source\repos\Environments\Environments\bin\Debug\netcoreapp2.1\Environments.runtimeconfig.dev.json
+C:\Users\randy\source\repos\Environments\Environments\bin\Debug\netcoreapp2.1\Environments.dll
+C:\Users\randy\source\repos\Environments\Environments\bin\Debug\netcoreapp2.1\Environments.pdb
+C:\Users\randy\source\repos\Environments\Environments\obj\Debug\netcoreapp2.1\Environments.csprojAssemblyReference.cache
+C:\Users\randy\source\repos\Environments\Environments\obj\Debug\netcoreapp2.1\Environments.csproj.CoreCompileInputs.cache
+C:\Users\randy\source\repos\Environments\Environments\obj\Debug\netcoreapp2.1\Environments.RazorAssemblyInfo.cache
+C:\Users\randy\source\repos\Environments\Environments\obj\Debug\netcoreapp2.1\Environments.RazorAssemblyInfo.cs
+C:\Users\randy\source\repos\Environments\Environments\obj\Debug\netcoreapp2.1\Environments.AssemblyInfoInputs.cache
+C:\Users\randy\source\repos\Environments\Environments\obj\Debug\netcoreapp2.1\Environments.AssemblyInfo.cs
+C:\Users\randy\source\repos\Environments\Environments\obj\Debug\netcoreapp2.1\Environments.RazorTargetAssemblyInfo.cache
+C:\Users\randy\source\repos\Environments\Environments\obj\Debug\netcoreapp2.1\Environments.dll
+C:\Users\randy\source\repos\Environments\Environments\obj\Debug\netcoreapp2.1\Environments.pdb
