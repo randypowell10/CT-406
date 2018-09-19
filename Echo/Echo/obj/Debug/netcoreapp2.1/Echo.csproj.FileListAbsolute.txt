@@ -1,0 +1,14 @@
+C:\Users\randy\source\repos\Echo\Echo\bin\Debug\netcoreapp2.1\Echo.deps.json
+C:\Users\randy\source\repos\Echo\Echo\bin\Debug\netcoreapp2.1\Echo.runtimeconfig.json
+C:\Users\randy\source\repos\Echo\Echo\bin\Debug\netcoreapp2.1\Echo.runtimeconfig.dev.json
+C:\Users\randy\source\repos\Echo\Echo\bin\Debug\netcoreapp2.1\Echo.dll
+C:\Users\randy\source\repos\Echo\Echo\bin\Debug\netcoreapp2.1\Echo.pdb
+C:\Users\randy\source\repos\Echo\Echo\obj\Debug\netcoreapp2.1\Echo.csprojAssemblyReference.cache
+C:\Users\randy\source\repos\Echo\Echo\obj\Debug\netcoreapp2.1\Echo.csproj.CoreCompileInputs.cache
+C:\Users\randy\source\repos\Echo\Echo\obj\Debug\netcoreapp2.1\Echo.RazorAssemblyInfo.cache
+C:\Users\randy\source\repos\Echo\Echo\obj\Debug\netcoreapp2.1\Echo.RazorAssemblyInfo.cs
+C:\Users\randy\source\repos\Echo\Echo\obj\Debug\netcoreapp2.1\Echo.AssemblyInfoInputs.cache
+C:\Users\randy\source\repos\Echo\Echo\obj\Debug\netcoreapp2.1\Echo.AssemblyInfo.cs
+C:\Users\randy\source\repos\Echo\Echo\obj\Debug\netcoreapp2.1\Echo.RazorTargetAssemblyInfo.cache
+C:\Users\randy\source\repos\Echo\Echo\obj\Debug\netcoreapp2.1\Echo.dll
+C:\Users\randy\source\repos\Echo\Echo\obj\Debug\netcoreapp2.1\Echo.pdb
