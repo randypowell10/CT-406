@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAuGi2EQy7xUGnZF5gFLAwQAAAAAACAAAAAAAQZgAAAAEAACAAAACWzqYBU2UXlfcSVhU47XBwZ2pkj43EA8z6/iq3OE9uLwAAAAAOgAAAAAIAACAAAADRODEKRXEaG3Hxa0z8i/jx4INhX22+iIzlgUxDCqgrbYAAAAB7mP5CxL5MuR8vo+GibwFieF2WTzrEOiox5ikLC2yYHny42wrkDEhEnr2DIpKLMo08czUYLKw6DW88Mso6V3eZiBsmbHVK/RJsATuaYeXMAHm2DZRpRu193S8MQ635ECx/OrlFYQvF35975O/T2AHVcixAei0bRqcF5JzZULl8tUAAAABWWFXMw4WS0jaRC2s7J70Fgt45aXRx1ZG1wQNEZym4L6vXhHW4sl3a3uxhzk7Eq7hl/2o0kktv/r7FXNtw2mSi</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=tcp:vswebapp120180919032213dbserver.database.windows.net,1433%3bInitial Catalog=VSWebApp120180919032213_db%3bUser Id=rkpowell%40vswebapp120180919032213dbserver%3bPassword=123Gamefreak!</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="VSWebApp1.Data.ApplicationDbContext">
+      <Value>Data Source=tcp:vswebapp120180919032213dbserver.database.windows.net,1433%3bInitial Catalog=VSWebApp120180919032213_db%3bUser Id=rkpowell%40vswebapp120180919032213dbserver%3bPassword=123Gamefreak!</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

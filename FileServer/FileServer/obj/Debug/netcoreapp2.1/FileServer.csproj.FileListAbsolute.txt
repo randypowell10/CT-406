@@ -1,0 +1,14 @@
+C:\Users\randy\source\repos\FileServer\FileServer\bin\Debug\netcoreapp2.1\FileServer.deps.json
+C:\Users\randy\source\repos\FileServer\FileServer\bin\Debug\netcoreapp2.1\FileServer.runtimeconfig.json
+C:\Users\randy\source\repos\FileServer\FileServer\bin\Debug\netcoreapp2.1\FileServer.runtimeconfig.dev.json
+C:\Users\randy\source\repos\FileServer\FileServer\bin\Debug\netcoreapp2.1\FileServer.dll
+C:\Users\randy\source\repos\FileServer\FileServer\bin\Debug\netcoreapp2.1\FileServer.pdb
+C:\Users\randy\source\repos\FileServer\FileServer\obj\Debug\netcoreapp2.1\FileServer.csprojAssemblyReference.cache
+C:\Users\randy\source\repos\FileServer\FileServer\obj\Debug\netcoreapp2.1\FileServer.csproj.CoreCompileInputs.cache
+C:\Users\randy\source\repos\FileServer\FileServer\obj\Debug\netcoreapp2.1\FileServer.RazorAssemblyInfo.cache
+C:\Users\randy\source\repos\FileServer\FileServer\obj\Debug\netcoreapp2.1\FileServer.RazorAssemblyInfo.cs
+C:\Users\randy\source\repos\FileServer\FileServer\obj\Debug\netcoreapp2.1\FileServer.AssemblyInfoInputs.cache
+C:\Users\randy\source\repos\FileServer\FileServer\obj\Debug\netcoreapp2.1\FileServer.AssemblyInfo.cs
+C:\Users\randy\source\repos\FileServer\FileServer\obj\Debug\netcoreapp2.1\FileServer.RazorTargetAssemblyInfo.cache
+C:\Users\randy\source\repos\FileServer\FileServer\obj\Debug\netcoreapp2.1\FileServer.dll
+C:\Users\randy\source\repos\FileServer\FileServer\obj\Debug\netcoreapp2.1\FileServer.pdb

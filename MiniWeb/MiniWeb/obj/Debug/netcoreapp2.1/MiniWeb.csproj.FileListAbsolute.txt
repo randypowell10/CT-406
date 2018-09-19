@@ -1,0 +1,14 @@
+C:\Users\randy\source\repos\MiniWeb\MiniWeb\bin\Debug\netcoreapp2.1\MiniWeb.deps.json
+C:\Users\randy\source\repos\MiniWeb\MiniWeb\bin\Debug\netcoreapp2.1\MiniWeb.runtimeconfig.json
+C:\Users\randy\source\repos\MiniWeb\MiniWeb\bin\Debug\netcoreapp2.1\MiniWeb.runtimeconfig.dev.json
+C:\Users\randy\source\repos\MiniWeb\MiniWeb\bin\Debug\netcoreapp2.1\MiniWeb.dll
+C:\Users\randy\source\repos\MiniWeb\MiniWeb\bin\Debug\netcoreapp2.1\MiniWeb.pdb
+C:\Users\randy\source\repos\MiniWeb\MiniWeb\obj\Debug\netcoreapp2.1\MiniWeb.csprojAssemblyReference.cache
+C:\Users\randy\source\repos\MiniWeb\MiniWeb\obj\Debug\netcoreapp2.1\MiniWeb.csproj.CoreCompileInputs.cache
+C:\Users\randy\source\repos\MiniWeb\MiniWeb\obj\Debug\netcoreapp2.1\MiniWeb.RazorAssemblyInfo.cache
+C:\Users\randy\source\repos\MiniWeb\MiniWeb\obj\Debug\netcoreapp2.1\MiniWeb.RazorAssemblyInfo.cs
+C:\Users\randy\source\repos\MiniWeb\MiniWeb\obj\Debug\netcoreapp2.1\MiniWeb.AssemblyInfoInputs.cache
+C:\Users\randy\source\repos\MiniWeb\MiniWeb\obj\Debug\netcoreapp2.1\MiniWeb.AssemblyInfo.cs
+C:\Users\randy\source\repos\MiniWeb\MiniWeb\obj\Debug\netcoreapp2.1\MiniWeb.RazorTargetAssemblyInfo.cache
+C:\Users\randy\source\repos\MiniWeb\MiniWeb\obj\Debug\netcoreapp2.1\MiniWeb.dll
+C:\Users\randy\source\repos\MiniWeb\MiniWeb\obj\Debug\netcoreapp2.1\MiniWeb.pdb
