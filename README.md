@@ -6,3 +6,4 @@ This repo is separated into project folders, each with a different solution deve
 Assignments:
 * Lab 1, Chapter 2 exercises: Echo, Environments, MiniWeb, FileServer
 * Homework 1: MyApp, VSWebApp1.1
+* Homework 2: MvcMovie
