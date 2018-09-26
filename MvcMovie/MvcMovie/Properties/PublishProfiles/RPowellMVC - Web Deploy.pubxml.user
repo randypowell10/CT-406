@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAuGi2EQy7xUGnZF5gFLAwQAAAAAACAAAAAAAQZgAAAAEAACAAAAAZqKGkXLCxHOlig6jwxpOGUOwkvPUadGVDipVpgTxVaQAAAAAOgAAAAAIAACAAAAA92sw5bxGQnboP0o2LJAwIafxwPDrnpa3ac1HwnxZVBoAAAAAm/nA62/Woh+gyNtMrO8bXJiAf+Rxqa4Zgy6uzXOcLKNzgX8uc5HRnPyVGKd+5hNBdCIsfGxBjLpyB0G0Z/yNXE5jJAJNtqb3y6QURGNp2UcAClPmbcxM3kqc+Qqwojq6f4j4YPMn2C5UIR4KdW+jqIz55VWogCjSddYhYJ+oyJEAAAABbkfCcR3lkT82ho9L3pOuSLqrCWUqZ1C32JOunRSJYvoc3O6Ub9CE/QDwYqLOyoaC1xUMZJySKefT1eYo1OdQb</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="MvcMovieContext">
+      <Value>Data Source=tcp:rpowellmvcdbserver.database.windows.net,1433%3bInitial Catalog=RPowellMVC_db%3bUser Id=rpowell10%40rpowellmvcdbserver%3bPassword=123Gamefreak</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="MvcMovie.Models.MvcMovieContext">
+      <Value>Data Source=tcp:rpowellmvcdbserver.database.windows.net,1433%3bInitial Catalog=RPowellMVC_db%3bUser Id=rpowell10%40rpowellmvcdbserver%3bPassword=123Gamefreak</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

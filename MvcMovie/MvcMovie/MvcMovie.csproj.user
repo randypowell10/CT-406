@@ -13,5 +13,6 @@
     <WebStackScaffolding_DbContextTypeFullName>MvcMovie.Models.MvcMovieContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
+    <NameOfLastUsedPublishProfile>RPowellMVC - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
