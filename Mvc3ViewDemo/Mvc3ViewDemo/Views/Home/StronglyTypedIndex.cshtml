@@ -1,0 +1,15 @@
+﻿@model IEnumerable<Mvc3ViewDemo.Controllers.Blog>
+@{
+    ViewData["Title"] = "StronglyTypedIndex";
+}
+
+<h2> Strongly Typed Index</h2>
+
+<ul>
+    @foreach (var item in Model)
+    {
+
+        <li><a href="@item.URL">@item.Name</a></li>
+
+    }
+</ul>
