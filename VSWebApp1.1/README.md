@@ -1,7 +1,7 @@
 # VSWebApp1
 ### Randy Powell
 ### Capitol Technology University
-### CT 206
+### CT 406
 ### Homework 1: Web App 1, published on Azure with VS
 ### URL OF SITE: https://vswebapp120180919032213.azurewebsites.net/
 
