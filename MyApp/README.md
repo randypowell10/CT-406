@@ -1,7 +1,7 @@
 # MyApp
 ### Randy Powell
 ### Capitol Technology University
-### CT 206
+### CT 406
 ### Homework 1: Web App 2, published on Azure with CLI
 ### URL OF SITE: http://tutorialapp745038880.azurewebsites.net/
 
