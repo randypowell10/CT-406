@@ -73,7 +73,7 @@ using Mvc3ViewDemo.Models;
             <li>");
             EndContext();
             BeginContext(424, 87, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6078c273386b42b7b567c2bb7563b977", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "71206324018d4eb49a7b650ad06eb8c0", async() => {
                 BeginContext(493, 14, true);
                 WriteLiteral("Strongly Typed");
                 EndContext();
@@ -99,7 +99,7 @@ using Mvc3ViewDemo.Models;
             WriteLiteral("</li>\r\n            <li>");
             EndContext();
             BeginContext(534, 83, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4391a8d98a9c4bbba9e5f22df4a08ffc", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d70520203275496c9df3cd7fe34b5f80", async() => {
                 BeginContext(606, 7, true);
                 WriteLiteral("Dynamic");
                 EndContext();
