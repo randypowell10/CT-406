@@ -1,7 +1,7 @@
 # MvcMovie
 ### Randy Powell
 ### Capitol Technology University
-### CT 206
+### CT 406
 ### Homework 2: MVC Web App
 ### URL OF SITE: https://rpowellmvc.azurewebsites.net/Movies
 
