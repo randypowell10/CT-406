@@ -1,7 +1,7 @@
 # Mvc3ViewDemo
 ### Randy Powell
 ### Capitol Technology University
-### CT 206
+### CT 406
 ### Homework 3: MVC & Views
 ### URL OF SITE: https://mvc3viewdemo20181003022103.azurewebsites.net/
 
