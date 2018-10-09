@@ -1,7 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 
 namespace RazorPagesMovie.Models
@@ -14,6 +10,5 @@ namespace RazorPagesMovie.Models
         }
 
         public DbSet<Movie> Movie { get; set; }
-        public DbSet<RazorPagesMovie.Models.Schedule> Schedule { get; set; }
     }
 }
