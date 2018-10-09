@@ -8,3 +8,4 @@ Assignments:
 * Homework 1: MyApp, VSWebApp1.1
 * Homework 2: MvcMovie
 * Homework 3: Mvc3ViewDemo
+* Homework 4: RazorPagesMovie
