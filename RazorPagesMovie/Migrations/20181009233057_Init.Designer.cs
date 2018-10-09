@@ -9,7 +9,7 @@ using RazorPagesMovie.Models;
 namespace RazorPagesMovie.Migrations
 {
     [DbContext(typeof(MovieContext))]
-    [Migration("20181009223936_Init")]
+    [Migration("20181009233057_Init")]
     partial class Init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -23,20 +23,48 @@ namespace RazorPagesMovie.Migrations
                     b.Property<int>("ID")
                         .ValueGeneratedOnAdd();
 
-                    b.Property<string>("Genre");
+                    b.Property<string>("Genre")
+                        .IsRequired()
+                        .HasMaxLength(30);
 
                     b.Property<decimal>("Price")
                         .HasColumnType("decimal(18, 2)");
 
-                    b.Property<string>("Rating");
+                    b.Property<string>("Rating")
+                        .IsRequired()
+                        .HasMaxLength(5);
 
                     b.Property<DateTime>("ReleaseDate");
 
-                    b.Property<string>("Title");
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasMaxLength(60);
 
                     b.HasKey("ID");
 
                     b.ToTable("Movie");
+                });
+
+            modelBuilder.Entity("RazorPagesMovie.Models.Schedule", b =>
+                {
+                    b.Property<int>("ID")
+                        .ValueGeneratedOnAdd();
+
+                    b.Property<string>("PrivateSchedule");
+
+                    b.Property<long>("PrivateScheduleSize");
+
+                    b.Property<string>("PublicSchedule");
+
+                    b.Property<long>("PublicScheduleSize");
+
+                    b.Property<string>("Title");
+
+                    b.Property<DateTime>("UploadDT");
+
+                    b.HasKey("ID");
+
+                    b.ToTable("Schedule");
                 });
 #pragma warning restore 612, 618
         }
