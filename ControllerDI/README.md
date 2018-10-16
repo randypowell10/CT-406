@@ -19,8 +19,13 @@ The third example is shown on the /Views/Settings/Index.cshtml page and uses the
 The last example shows dependency injection in requirement handlers and is shown in /Services/LoggingAuthorizationHandler.cs. A repository of requirement rules, created at /Services/Requirements/MyRequirement.cs, is to be evaluated inside the authorization handler. To use ASP.NET logging in the handler, an ILoggerFactory must be injected.
 ### Questions:
 1. How does Dependency Injection help to write 'Clean Code'?
+
 Dependency Injection makes it so modules and classes that depend on each other are not strongly coupled. In this methodology, classes do not directly refer to each other and instantiate each other. Instead, a layer of abstraction is added so when one is changed, it does not directly effect the other. As a result, code is much more maintainable, modular, clean, easy to test, and easy to follow. 
+
 2. For your final project, how can you use Inversion of Control in your application?
+
 No classes I create should be tightly coupled to another class. This would make it easier to maintain which is important because I will be using and updating the application for years as I gain more experience.
+
 3. What is the Explicit Dependencies Principle?
+
 Methods and classes should explicitly require any collaborating objects they need in order to function correctly. They should be honest and state very clearly what they require to carry out their function.
