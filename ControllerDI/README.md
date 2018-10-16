@@ -12,8 +12,8 @@ This app is the result of following the dependency injection tutorials at
 
 
 
-## Questions:
-1. How does Dependency Injection help to write 'Clean Code'
+### Questions:
+1. How does Dependency Injection help to write 'Clean Code'?
 
 2. For your final project, how can you use Inversion of Control in your application?
 
