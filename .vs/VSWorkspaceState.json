@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\WebApp1\\WebApp1\\Areas\\Identity"
+    "\\WebApp1",
+    "\\WebApp1\\WebApp1",
+    "\\WebApp1\\WebApp1\\Areas\\Identity\\Pages",
+    "\\WebApp1\\WebApp1\\Pages"
   ],
   "SelectedNode": "\\WebApp1",
   "PreviewInSolutionExplorer": false
