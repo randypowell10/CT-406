@@ -10,3 +10,4 @@ Assignments:
 * Homework 3: Mvc3ViewDemo
 * Homework 4: RazorPagesMovie
 * Homework 5: ControllerDI, ViewInjectSample
+* Homework 6: WebApp1
