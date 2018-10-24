@@ -28,8 +28,23 @@ using WebApp1.Data;
 
 #line default
 #line hidden
+#line 6 "C:\Users\randy\source\repos\CT-406\WebApp1\WebApp1\Pages\_ViewImports.cshtml"
+using WebApp1.Authorization;
+
+#line default
+#line hidden
+#line 7 "C:\Users\randy\source\repos\CT-406\WebApp1\WebApp1\Pages\_ViewImports.cshtml"
+using Microsoft.AspNetCore.Authorization;
+
+#line default
+#line hidden
+#line 8 "C:\Users\randy\source\repos\CT-406\WebApp1\WebApp1\Pages\_ViewImports.cshtml"
+using WebApp1.Models;
+
+#line default
+#line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"0a89a6d9ad618342ee60782750cbce3ad2bda01f", @"/Pages/Shared/_LoginPartial.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"24feebcfe78e45989d09b49f9d9fb1c6facdb760", @"/Pages/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"1ac37314e4cdf3b467826c803946fe8b39cf5816", @"/Pages/_ViewImports.cshtml")]
     public class Pages_Shared__LoginPartial : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("asp-area", "Identity", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -81,12 +96,12 @@ using WebApp1.Data;
             WriteLiteral("    ");
             EndContext();
             BeginContext(185, 546, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7d123fdb2d9b41738528e80b4809c343", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "478a9333fc1f41c7b15a2615a986cc44", async() => {
                 BeginContext(350, 86, true);
                 WriteLiteral("\r\n        <ul class=\"nav navbar-nav navbar-right\">\r\n            <li>\r\n                ");
                 EndContext();
                 BeginContext(436, 112, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ed20825772584fcd957f6b77094917a9", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6135bb46dc0649a781edd18857c83d1d", async() => {
                     BeginContext(507, 6, true);
                     WriteLiteral("Hello ");
                     EndContext();
@@ -169,7 +184,7 @@ else
             WriteLiteral("    <ul class=\"nav navbar-nav navbar-right\">\r\n        <li>");
             EndContext();
             BeginContext(803, 64, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c729f5b5760849009ee81ead44afcd11", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "73190638447143d69710b991d14c6029", async() => {
                 BeginContext(855, 8, true);
                 WriteLiteral("Register");
                 EndContext();
@@ -193,7 +208,7 @@ else
             WriteLiteral("</li>\r\n        <li>");
             EndContext();
             BeginContext(886, 58, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0c39600d6f97431bbbb1f47c5c00fe3d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b09d71633dca49d8bf9fb086dd451fc2", async() => {
                 BeginContext(935, 5, true);
                 WriteLiteral("Login");
                 EndContext();
@@ -227,6 +242,8 @@ else
         public UserManager<IdentityUser> UserManager { get; private set; }
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
         public SignInManager<IdentityUser> SignInManager { get; private set; }
+        [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
+        public IAuthorizationService AuthorizationService { get; private set; }
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
         public global::Microsoft.AspNetCore.Mvc.ViewFeatures.IModelExpressionProvider ModelExpressionProvider { get; private set; }
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]

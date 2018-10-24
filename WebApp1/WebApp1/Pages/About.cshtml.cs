@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace WebApp1.Pages
 {
-    [Authorize]
+    [AllowAnonymous]
     public class AboutModel : PageModel
     {
         public string Message { get; set; }

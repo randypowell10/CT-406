@@ -28,8 +28,23 @@ using WebApp1.Data;
 
 #line default
 #line hidden
+#line 6 "C:\Users\randy\source\repos\CT-406\WebApp1\WebApp1\Pages\_ViewImports.cshtml"
+using WebApp1.Authorization;
+
+#line default
+#line hidden
+#line 7 "C:\Users\randy\source\repos\CT-406\WebApp1\WebApp1\Pages\_ViewImports.cshtml"
+using Microsoft.AspNetCore.Authorization;
+
+#line default
+#line hidden
+#line 8 "C:\Users\randy\source\repos\CT-406\WebApp1\WebApp1\Pages\_ViewImports.cshtml"
+using WebApp1.Models;
+
+#line default
+#line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ef8411aee7b0a87fc7e1b1e932fb6bb1953acaa1", @"/Pages/Contact.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"24feebcfe78e45989d09b49f9d9fb1c6facdb760", @"/Pages/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"1ac37314e4cdf3b467826c803946fe8b39cf5816", @"/Pages/_ViewImports.cshtml")]
     public class Pages_Contact : global::Microsoft.AspNetCore.Mvc.RazorPages.Page
     {
         #pragma warning disable 1998
@@ -79,6 +94,8 @@ Write(Model.Message);
             EndContext();
         }
         #pragma warning restore 1998
+        [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
+        public IAuthorizationService AuthorizationService { get; private set; }
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
         public global::Microsoft.AspNetCore.Mvc.ViewFeatures.IModelExpressionProvider ModelExpressionProvider { get; private set; }
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
