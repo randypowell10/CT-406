@@ -2,10 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\ContosoUniversity",
-    "\\ContosoUniversity\\ContosoUniversity\\Pages\\Departments",
-    "\\WebApp1",
-    "\\WebApp1\\WebApp1\\Pages"
+    "\\ContosoUniversity\\ContosoUniversity",
+    "\\ContosoUniversity\\ContosoUniversity\\Data",
+    "\\ContosoUniversity\\ContosoUniversity\\Models",
+    "\\ContosoUniversity\\ContosoUniversity\\Pages",
+    "\\WebApp1"
   ],
-  "SelectedNode": "\\Environments",
   "PreviewInSolutionExplorer": false
 }
