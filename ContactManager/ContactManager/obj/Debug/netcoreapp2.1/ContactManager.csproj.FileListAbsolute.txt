@@ -1,0 +1,14 @@
+C:\Users\randy\source\repos\CT-406\ContactManager\ContactManager\bin\Debug\netcoreapp2.1\ContactManager.deps.json
+C:\Users\randy\source\repos\CT-406\ContactManager\ContactManager\bin\Debug\netcoreapp2.1\ContactManager.runtimeconfig.json
+C:\Users\randy\source\repos\CT-406\ContactManager\ContactManager\bin\Debug\netcoreapp2.1\ContactManager.runtimeconfig.dev.json
+C:\Users\randy\source\repos\CT-406\ContactManager\ContactManager\bin\Debug\netcoreapp2.1\ContactManager.dll
+C:\Users\randy\source\repos\CT-406\ContactManager\ContactManager\obj\Debug\netcoreapp2.1\ContactManager.csprojAssemblyReference.cache
+C:\Users\randy\source\repos\CT-406\ContactManager\ContactManager\obj\Debug\netcoreapp2.1\ContactManager.csproj.CoreCompileInputs.cache
+C:\Users\randy\source\repos\CT-406\ContactManager\ContactManager\obj\Debug\netcoreapp2.1\ContactManager.RazorAssemblyInfo.cache
+C:\Users\randy\source\repos\CT-406\ContactManager\ContactManager\obj\Debug\netcoreapp2.1\ContactManager.RazorAssemblyInfo.cs
+C:\Users\randy\source\repos\CT-406\ContactManager\ContactManager\obj\Debug\netcoreapp2.1\ContactManager.AssemblyInfoInputs.cache
+C:\Users\randy\source\repos\CT-406\ContactManager\ContactManager\obj\Debug\netcoreapp2.1\ContactManager.AssemblyInfo.cs
+C:\Users\randy\source\repos\CT-406\ContactManager\ContactManager\obj\Debug\netcoreapp2.1\ContactManager.RazorTargetAssemblyInfo.cache
+C:\Users\randy\source\repos\CT-406\ContactManager\ContactManager\bin\Debug\netcoreapp2.1\ContactManager.pdb
+C:\Users\randy\source\repos\CT-406\ContactManager\ContactManager\obj\Debug\netcoreapp2.1\ContactManager.dll
+C:\Users\randy\source\repos\CT-406\ContactManager\ContactManager\obj\Debug\netcoreapp2.1\ContactManager.pdb

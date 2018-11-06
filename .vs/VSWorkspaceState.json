@@ -1,12 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ContosoUniversity",
-    "\\ContosoUniversity\\ContosoUniversity",
-    "\\ContosoUniversity\\ContosoUniversity\\Data",
-    "\\ContosoUniversity\\ContosoUniversity\\Models",
-    "\\ContosoUniversity\\ContosoUniversity\\Pages",
-    "\\WebApp1"
+    "\\TodoApi"
   ],
+  "SelectedNode": "\\ContosoUniversity2",
   "PreviewInSolutionExplorer": false
 }

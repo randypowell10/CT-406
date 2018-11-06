@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <div id="body">
+        <h1>Contact List</h1>
+        <ul id="contacts"></ul>
+        <form id="saveContactForm" method="post">
+            <h3>Create a new Contact</h3>
+            <!--<p>
+                <label for="contactId">Contact Id:</label>
+                <input type="text" name="Id" />
+            </p>-->
+            <p>
+                <label for="contactName">Contact Name:</label>
+                <input id="name" type="text" name="name" />
+            </p>
+            <input type="button" id="saveContact" value="Save" />
+        </form>
+    </div>
+</body>
+</html>
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        crossorigin="anonymous"></script>
+<script type="text/javascript">
+$(function()
+{
+        $.getJSON('/api/contact', function(contactsJsonPayload)
+        {
+            $(contactsJsonPayload).each(function(i, item)
+            {
+                $('#contacts').append('<li>' + item.name + '</li>');
+            });
+        });
+    });
+
+    $('#saveContact').click(function () {
+        console.log($("#saveContactForm").serialize());
+
+        const item = {
+            name: $("#name").val()
+        };
+
+        $.ajax({
+            type: "POST",
+            accepts: "application/json",
+            url: "api/contact",
+            contentType: "application/json",
+            data: JSON.stringify(item),
+            error: function (jqXHR, textStatus, errorThrown) {
+                alert("Something went wrong!");
+            },
+            success: function (result) {
+
+                $("#name").val("");
+                location.reload();
+            }
+        });
+
+
+
+
+    });
+</script>

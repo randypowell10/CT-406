@@ -1,0 +1,14 @@
+C:\Users\randy\source\repos\CT-406\ToDoApi2\ToDoApi2\bin\Debug\netcoreapp2.1\ToDoApi2.deps.json
+C:\Users\randy\source\repos\CT-406\ToDoApi2\ToDoApi2\bin\Debug\netcoreapp2.1\ToDoApi2.runtimeconfig.json
+C:\Users\randy\source\repos\CT-406\ToDoApi2\ToDoApi2\bin\Debug\netcoreapp2.1\ToDoApi2.runtimeconfig.dev.json
+C:\Users\randy\source\repos\CT-406\ToDoApi2\ToDoApi2\bin\Debug\netcoreapp2.1\ToDoApi2.dll
+C:\Users\randy\source\repos\CT-406\ToDoApi2\ToDoApi2\obj\Debug\netcoreapp2.1\ToDoApi2.csprojAssemblyReference.cache
+C:\Users\randy\source\repos\CT-406\ToDoApi2\ToDoApi2\obj\Debug\netcoreapp2.1\ToDoApi2.csproj.CoreCompileInputs.cache
+C:\Users\randy\source\repos\CT-406\ToDoApi2\ToDoApi2\obj\Debug\netcoreapp2.1\ToDoApi2.RazorAssemblyInfo.cache
+C:\Users\randy\source\repos\CT-406\ToDoApi2\ToDoApi2\obj\Debug\netcoreapp2.1\ToDoApi2.RazorAssemblyInfo.cs
+C:\Users\randy\source\repos\CT-406\ToDoApi2\ToDoApi2\obj\Debug\netcoreapp2.1\ToDoApi2.AssemblyInfoInputs.cache
+C:\Users\randy\source\repos\CT-406\ToDoApi2\ToDoApi2\obj\Debug\netcoreapp2.1\ToDoApi2.AssemblyInfo.cs
+C:\Users\randy\source\repos\CT-406\ToDoApi2\ToDoApi2\obj\Debug\netcoreapp2.1\ToDoApi2.RazorTargetAssemblyInfo.cache
+C:\Users\randy\source\repos\CT-406\ToDoApi2\ToDoApi2\bin\Debug\netcoreapp2.1\ToDoApi2.pdb
+C:\Users\randy\source\repos\CT-406\ToDoApi2\ToDoApi2\obj\Debug\netcoreapp2.1\ToDoApi2.dll
+C:\Users\randy\source\repos\CT-406\ToDoApi2\ToDoApi2\obj\Debug\netcoreapp2.1\ToDoApi2.pdb
