@@ -12,3 +12,4 @@ Assignments:
 * Homework 5: ControllerDI, ViewInjectSample
 * Homework 6: WebApp1
 * Homework 7: ContosoUniversity, ContosoUniversity2
+* Homework 8: TodoApi, ToDoApi2, ContactManager
