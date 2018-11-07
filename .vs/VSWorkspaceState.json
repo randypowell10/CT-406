@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\TodoApi"
+    "\\ContactManager",
+    "\\ContosoUniversity",
+    "\\TodoApi",
+    "\\ToDoApi2"
   ],
-  "SelectedNode": "\\ContosoUniversity2",
+  "SelectedNode": "\\ToDoApi2\\README.md",
   "PreviewInSolutionExplorer": false
 }
